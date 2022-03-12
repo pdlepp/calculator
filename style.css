@@ -1,0 +1,38 @@
+.btn {
+    height: 30px;
+    width: 30px;
+}
+
+#runningTotal {
+    height: 30px;
+    width: 130px;
+    border-style: solid;
+    border-bottom: 0px;
+    border-radius: 5%;
+    margin-top: 5px;
+}
+
+#firstRow {
+    padding-left: 35px;
+}
+
+.row{
+    padding-bottom: 5px;
+}
+
+#currentTotal {
+    height: 30px;
+    width: 130px;
+    border-style: solid;
+    border-radius: 5%;
+    border-top: 0px;
+    margin-bottom: 10px; 
+}
+
+#calculator {
+    border-style: solid;
+    border-radius: 5%;
+    height: 250px;
+    width: 140px;
+    padding: 0px 5px 10px 5px;
+}
